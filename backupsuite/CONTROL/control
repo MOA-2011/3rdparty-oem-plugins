@@ -1,0 +1,5 @@
+Package: enigma2-plugin-extensions-backupsuite
+Version: 1.0
+Description: Image back-up directly on USB and/or HDD
+Maintainer: Nabil Hanna <nabil1978@web.de>
+Depends: enigma2,  mtd-utils

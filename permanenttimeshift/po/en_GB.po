@@ -1,0 +1,261 @@
+# English translations for enigma2-plugins package.
+# Copyright (C) 2014 THE enigma2-plugins'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the enigma2-plugins package.
+# Automatically generated, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma2-plugins 3.2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-09-29 22:29+0900\n"
+"PO-Revision-Date: 2014-09-29 22:29+0900\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid ""
+"\n"
+"An Input/output error usually indicates a corrupted filesystem! Please check "
+"the filesystem of your timeshift-device!"
+msgstr ""
+"\n"
+"An Input/output error usually indicates a corrupted filesystem! Please check "
+"the filesystem of your timeshift-device!"
+
+msgid ""
+"A recording is currently running.\n"
+"What do you want to do?"
+msgstr ""
+"A recording is currently running.\n"
+"What do you want to do?"
+
+msgid "Ask user"
+msgstr "Ask user"
+
+msgid "Beta: Enable Permanent Recording?"
+msgstr "Beta: Enable Permanent Recording?"
+
+msgid "Cancel"
+msgstr "Cancel"
+
+msgid ""
+"Could not activate Permanent-Timeshift!\n"
+"Timeshift-Path does not exist"
+msgstr ""
+"Could not activate Permanent-Timeshift!\n"
+"Timeshift-Path does not exist"
+
+msgid "Creating AP and SC Files"
+msgstr "Creating AP and SC Files"
+
+msgid "Creating Hardlink to Timeshift file failed!"
+msgstr "Creating Hardlink to Timeshift file failed!"
+
+msgid "Current Event:"
+msgstr "Current Event:"
+
+msgid "Default storage device is not available!"
+msgstr "Default storage device is not available!"
+
+msgid "Don't save"
+msgstr "Don't save"
+
+msgid "Don't save Timeshift as Movie"
+msgstr "Don't save Timeshift as Movie"
+
+msgid "Getting Event Info failed!"
+msgstr "Getting Event Info failed!"
+
+msgid ""
+"Maximum Timeshift length per Event reached!\n"
+"Restarting Timeshift now ..."
+msgstr ""
+"Maximum Timeshift length per Event reached!\n"
+"Restarting Timeshift now ..."
+
+msgid "Merging Timeshift files"
+msgstr "Merging Timeshift files"
+
+msgid "No HDD found or HDD not initialized!"
+msgstr "No HDD found or HDD not initialized!"
+
+msgid "No Timeshift found to save as recording!"
+msgstr "No Timeshift found to save as recording!"
+
+msgid "No default storage device found!"
+msgstr "No default storage device found!"
+
+#, python-format
+msgid ""
+"Not enough free Diskspace!\n"
+"\n"
+"Filesize: %sMB\n"
+"Free Space: %sMB\n"
+"Path: %s"
+msgstr ""
+"Not enough free Diskspace!\n"
+"\n"
+"Filesize: %sMB\n"
+"Free Space: %sMB\n"
+"Path: %s"
+
+msgid "OK"
+msgstr "OK"
+
+#, python-format
+msgid "PTS Plugin Error: %s"
+msgstr "PTS Plugin Error: %s"
+
+msgid "PTS-Plugin: Merging records failed!"
+msgstr "PTS-Plugin: Merging records failed!"
+
+msgid "PTS-Plugin: Restarting Timeshift!"
+msgstr "PTS-Plugin: Restarting Timeshift!"
+
+msgid "Permanent Timeshift Enable"
+msgstr "Permanent Timeshift Enable"
+
+msgid "Permanent Timeshift Max Events"
+msgstr "Permanent Timeshift Max Events"
+
+msgid "Permanent Timeshift Max Length"
+msgstr "Permanent Timeshift Max Length"
+
+msgid "Permanent Timeshift Settings"
+msgstr "Permanent Timeshift Settings"
+
+#, python-format
+msgid "Permanent Timeshift Settings Version %s"
+msgstr "Permanent Timeshift Settings Version %s"
+
+msgid "Permanent Timeshift Start Delay"
+msgstr "Permanent Timeshift Start Delay"
+
+msgid ""
+"Please make sure to set up your default storage device in menu -> setup -> "
+"system -> recording paths."
+msgstr ""
+"Please make sure to set up your default storage device in menu -> setup -> "
+"system -> recording paths."
+
+msgid ""
+"Please make sure to set up your storage devices with the storage management "
+"in menu -> setup -> system -> storage devices."
+msgstr ""
+"Please make sure to set up your storage devices with the storage management "
+"in menu -> setup -> system -> storage devices."
+
+msgid ""
+"Please verify if your default storage device is attached or set up your "
+"default storage device in menu -> setup -> system -> recording paths."
+msgstr ""
+"Please verify if your default storage device is attached or set up your "
+"default storage device in menu -> setup -> system -> recording paths."
+
+msgid "Record"
+msgstr "Record"
+
+msgid "Record started! Stopping timeshift now ..."
+msgstr "Record started! Stopping timeshift now ..."
+
+msgid "Save Timeshift as Movie and continue recording"
+msgstr "Save Timeshift as Movie and continue recording"
+
+msgid "Save Timeshift as Movie and stop recording"
+msgstr "Save Timeshift as Movie and stop recording"
+
+msgid "Save and record"
+msgstr "Save and record"
+
+msgid "Save and stop"
+msgstr "Save and stop"
+
+msgid "Saving Timeshift files"
+msgstr "Saving Timeshift files"
+
+msgid "Saving timeshift as movie now. This might take a while!"
+msgstr "Saving timeshift as movie now. This might take a while!"
+
+msgid "Show PTS Infobar while timeshifting?"
+msgstr "Show PTS Infobar while timeshifting?"
+
+msgid "Start recording?"
+msgstr "Start recording?"
+
+msgid "Stop timeshift while recording?"
+msgstr "Stop timeshift while recording?"
+
+msgid ""
+"The Filesystem on your Timeshift-Device does not support hardlinks.\n"
+"Make sure it is formated in EXT2 or EXT3!"
+msgstr ""
+"The Filesystem on your Timeshift-Device does not support hardlinks.\n"
+"Make sure it is formated in EXT2 or EXT3!"
+
+msgid ""
+"The Timeshift record was not saved yet!\n"
+"What do you want to do now with the timeshift file?"
+msgstr ""
+"The Timeshift record was not saved yet!\n"
+"What do you want to do now with the timeshift file?"
+
+msgid "Timeshift"
+msgstr "Timeshift"
+
+msgid "Timeshift Settings"
+msgstr "Timeshift Settings"
+
+msgid "Timeshift save failed!"
+msgstr "Timeshift save failed!"
+
+msgid "Timeshift saved to your harddisk!"
+msgstr "Timeshift saved to your harddisk!"
+
+msgid "Timeshift will get saved at end of event!"
+msgstr "Timeshift will get saved at end of event!"
+
+msgid "Timeshift-Save Action on zap"
+msgstr "Timeshift-Save Action on zap"
+
+msgid "Unconfigured storage devices found!"
+msgstr "Unconfigured storage devices found!"
+
+msgid "Which event do you want to save permanently?"
+msgstr "Which event do you want to save permanently?"
+
+msgid "add recording (enter recording duration)"
+msgstr "add recording (enter recording duration)"
+
+msgid "add recording (enter recording endtime)"
+msgstr "add recording (enter recording endtime)"
+
+msgid "add recording (indefinitely)"
+msgstr "add recording (indefinitely)"
+
+msgid "add recording (stop after current event)"
+msgstr "add recording (stop after current event)"
+
+msgid "change recording (duration)"
+msgstr "change recording (duration)"
+
+msgid "change recording (endtime)"
+msgstr "change recording (endtime)"
+
+msgid "do nothing"
+msgstr "do nothing"
+
+msgid "don't record"
+msgstr "don't record"
+
+msgid "save recording (Select event)"
+msgstr "save recording (Select event)"
+
+msgid "save recording (stop after current event)"
+msgstr "save recording (stop after current event)"
+
+msgid "stop recording"
+msgstr "stop recording"

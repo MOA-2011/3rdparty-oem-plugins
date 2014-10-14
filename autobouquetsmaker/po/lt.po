@@ -1,0 +1,245 @@
+# Lithuanian translations for enigma2-oe-alliance-plugins package.
+# Copyright (C) 2014 THE enigma2-oe-alliance-plugins'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the enigma2-oe-alliance-plugins package.
+# Automatically generated, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma2-oe-alliance-plugins 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-09-24 16:59+0900\n"
+"PO-Revision-Date: 2014-09-24 16:59+0900\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: lt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n"
+"%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid "30 Days"
+msgstr ""
+
+msgid "About"
+msgstr ""
+
+msgid "Add provider prefix to bouquets"
+msgstr ""
+
+msgid "Allows you to set a schedule to perform a scan "
+msgstr ""
+
+msgid "AutoBouquetsMaker"
+msgstr ""
+
+msgid "AutoBouquetsMaker Configure"
+msgstr ""
+
+msgid "AutoBouquetsMaker Hide sections"
+msgstr ""
+
+msgid "AutoBouquetsMaker Keep bouquets"
+msgstr ""
+
+msgid "AutoBouquetsMaker Log"
+msgstr ""
+
+msgid "AutoBouquetsMaker Providers"
+msgstr ""
+
+msgid "AutoBouquetsMaker Scanner"
+msgstr ""
+
+msgid "Bottom"
+msgstr ""
+
+msgid "Bouquets order"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid ""
+"Choose which level of setting's to display. 'Expert'-level shows all items, "
+"this also add's more options in the providers menu."
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Configure"
+msgstr ""
+
+msgid "Daily"
+msgstr ""
+
+msgid "Hide sections"
+msgstr ""
+
+msgid "Keep all bouquets"
+msgstr ""
+
+msgid "Keep bouquets"
+msgstr ""
+
+msgid "Move down"
+msgstr ""
+
+msgid "Move up"
+msgstr ""
+
+msgid "OK"
+msgstr ""
+
+msgid "Place bouquets at"
+msgstr ""
+
+msgid "Please wait..."
+msgstr ""
+
+msgid "Providers"
+msgstr ""
+
+msgid "Providers order"
+msgstr ""
+
+msgid "Really close without saving settings?"
+msgstr ""
+
+msgid "Repeat how often"
+msgstr ""
+
+msgid "Schedule scan"
+msgstr ""
+
+msgid ""
+"Select your own bouquet from the list, please note that the only the first "
+"100 channels for this bouquet will be used."
+msgstr ""
+
+msgid "Set the repeat interval of the schedule."
+msgstr ""
+
+msgid "Set the time of day to perform the scan."
+msgstr ""
+
+msgid "Setup mode"
+msgstr ""
+
+msgid "Show in extensions"
+msgstr ""
+
+msgid "Show log"
+msgstr ""
+
+msgid "Start scan"
+msgstr ""
+
+msgid ""
+"This option allows you to choose what region of the country you live in, so "
+"it populates the correct channels for your region."
+msgstr ""
+
+msgid "This option enables the current selected provider."
+msgstr ""
+
+msgid ""
+"This option has several choices \"Yes\", (create a bouquet with all the "
+"channels in it), \"Yes HD only\", (will group all HD channels into this "
+"bouquet), \"Custom\", (allows you to select your own bouquet), \"No\", (do "
+"not use a main bouquet)"
+msgstr ""
+
+msgid "This option will alow you choose where to place the created bouquets."
+msgstr ""
+
+msgid ""
+"This option will create a FreeToAir High Definition bouquet, it will group "
+"all HD channels into this bouquet."
+msgstr ""
+
+msgid ""
+"This option will create a FreeToAir bouquet, it will group all none "
+"encrypted channels into this bouquet."
+msgstr ""
+
+msgid ""
+"This option will create a High Definition bouquet, it will group all HD "
+"channels into this bouquet."
+msgstr ""
+
+msgid ""
+"This option will create bouquets for each type of channel, ie Entertainment, "
+"Movies, Documentary."
+msgstr ""
+
+msgid "This option will prepend the provider name to bouquet name."
+msgstr ""
+
+msgid ""
+"This option will swap SD versions of channels with HD versions. (ie 101 BBC "
+"One, 103 ITV, 104 Channel Four, 105 Channel Five)"
+msgstr ""
+
+msgid "Time of scan to start"
+msgstr ""
+
+msgid "Top"
+msgstr ""
+
+msgid "Weekly"
+msgstr ""
+
+msgid ""
+"When disabled this will enable the 'Keep bouquets' in the main menu, "
+"allowing you to hide some 'existing' bouquets."
+msgstr ""
+
+msgid "When enable allow you start a scan from the extensions list."
+msgstr ""
+
+msgid "area"
+msgstr ""
+
+msgid "custom bouquet for main"
+msgstr ""
+
+msgid "expert"
+msgstr ""
+
+msgid "generate FTA HD bouquet"
+msgstr ""
+
+msgid "generate FTA bouquet"
+msgstr ""
+
+msgid "generate HD bouquet"
+msgstr ""
+
+msgid "generate main bouquet"
+msgstr ""
+
+msgid "generate sections bouquets"
+msgstr ""
+
+msgid "no"
+msgstr ""
+
+msgid "simple"
+msgstr ""
+
+msgid "swap channels"
+msgstr ""
+
+msgid "yes"
+msgstr ""
+
+msgid "yes (custom)"
+msgstr ""
+
+msgid "yes (only FTA HD)"
+msgstr ""
+
+msgid "yes (only HD)"
+msgstr ""

@@ -1,0 +1,519 @@
+# English translations for enigma2-oe-alliance-plugins package.
+# Copyright (C) 2014 THE enigma2-oe-alliance-plugins'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the enigma2-oe-alliance-plugins package.
+# Automatically generated, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma2-oe-alliance-plugins 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-10-08 17:31+0900\n"
+"PO-Revision-Date: 2014-10-08 17:31+0900\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid ""
+"\n"
+"\n"
+"Genre: "
+msgstr ""
+"\n"
+"\n"
+"Genre: "
+
+msgid "0 - 9"
+msgstr "0 - 9"
+
+msgid "3 Player"
+msgstr "3 Player"
+
+msgid "4OD Player"
+msgstr "4OD Player"
+
+msgid "A - C"
+msgstr "A - C"
+
+msgid "A to Z"
+msgstr "A to Z"
+
+msgid "ABC News 24"
+msgstr "ABC News 24"
+
+msgid "ABC iView"
+msgstr "ABC iView"
+
+msgid "ABC iView - A to Z"
+msgstr "ABC iView - A to Z"
+
+msgid "ABC1"
+msgstr "ABC1"
+
+msgid "ABC2"
+msgstr "ABC2"
+
+msgid "ABC3"
+msgstr "ABC3"
+
+msgid "ABC4Kids"
+msgstr "ABC4Kids"
+
+msgid "About"
+msgstr "About"
+
+msgid "Add to Favorites"
+msgstr "Add to Favorites"
+
+msgid "Added:"
+msgstr "Added:"
+
+msgid "Added: "
+msgstr "Added: "
+
+msgid "All Shows"
+msgstr "All Shows"
+
+msgid "Arts & Culture - Music"
+msgstr "Arts & Culture - Music"
+
+msgid "Arts & Culture - People"
+msgstr "Arts & Culture - People"
+
+msgid "Arts & Culture - Performance"
+msgstr "Arts & Culture - Performance"
+
+msgid "Arts & Culture - Reviews"
+msgstr "Arts & Culture - Reviews"
+
+msgid "Audio: "
+msgstr "Audio: "
+
+msgid "Audio: Unknown"
+msgstr "Audio: Unknown"
+
+msgid "BBC Alba"
+msgstr "BBC Alba"
+
+msgid "BBC Four"
+msgstr "BBC Four"
+
+msgid "BBC HD"
+msgstr "BBC HD"
+
+msgid "BBC News"
+msgstr "BBC News"
+
+msgid "BBC Northern Ireland"
+msgstr "BBC Northern Ireland"
+
+msgid "BBC One"
+msgstr "BBC One"
+
+msgid "BBC Parliamanent"
+msgstr "BBC Parliamanent"
+
+msgid "BBC Scotland"
+msgstr "BBC Scotland"
+
+msgid "BBC Three"
+msgstr "BBC Three"
+
+msgid "BBC Two"
+msgstr "BBC Two"
+
+msgid "BBC Wales"
+msgstr "BBC Wales"
+
+msgid "BBC iPlayer"
+msgstr "BBC iPlayer"
+
+msgid "Back"
+msgstr "Back"
+
+msgid "Bitrate: "
+msgstr "Bitrate: "
+
+msgid "Bitrate: Unknown"
+msgstr "Bitrate: Unknown"
+
+msgid "CBBC"
+msgstr "CBBC"
+
+msgid "Cancel"
+msgstr "Cancel"
+
+msgid "Cbeebies"
+msgstr "Cbeebies"
+
+msgid "Childrens"
+msgstr "Childrens"
+
+msgid "Close"
+msgstr "Close"
+
+msgid "Comedy"
+msgstr "Comedy"
+
+msgid "Comedy - Cult"
+msgstr "Comedy - Cult"
+
+msgid "Comedy - Satire"
+msgstr "Comedy - Satire"
+
+msgid "Comedy - Sitcom"
+msgstr "Comedy - Sitcom"
+
+msgid "Comedy - Sketch"
+msgstr "Comedy - Sketch"
+
+msgid "D - F"
+msgstr "D - F"
+
+msgid "Delete from Favorites"
+msgstr "Delete from Favorites"
+
+msgid "Documentary - Biography"
+msgstr "Documentary - Biography"
+
+msgid "Documentary - History"
+msgstr "Documentary - History"
+
+msgid "Documentary - Nature"
+msgstr "Documentary - Nature"
+
+msgid "Documentary - Real Life"
+msgstr "Documentary - Real Life"
+
+msgid "Documentary - Science"
+msgstr "Documentary - Science"
+
+msgid "Drama"
+msgstr "Drama"
+
+msgid "Drama - Crime"
+msgstr "Drama - Crime"
+
+msgid "Drama - Historical"
+msgstr "Drama - Historical"
+
+msgid "Drama - Period"
+msgstr "Drama - Period"
+
+msgid "Drama - Romance"
+msgstr "Drama - Romance"
+
+msgid "Drama - Sci-fi"
+msgstr "Drama - Sci-fi"
+
+msgid "Duration:"
+msgstr "Duration:"
+
+msgid "Duration: "
+msgstr "Duration: "
+
+msgid "Education"
+msgstr "Education"
+
+msgid "Entertainment"
+msgstr "Entertainment"
+
+msgid "Episodes by Date"
+msgstr "Episodes by Date"
+
+msgid "Episodes: "
+msgstr "Episodes: "
+
+msgid "Exit"
+msgstr "Exit"
+
+msgid "Factual"
+msgstr "Factual"
+
+msgid "Favorites"
+msgstr "Favorites"
+
+msgid "Featured Programs"
+msgstr "Featured Programs"
+
+msgid "G - J"
+msgstr "G - J"
+
+msgid "Going, Going..."
+msgstr "Going, Going..."
+
+msgid "HD"
+msgstr "HD"
+
+msgid "Health And Wellbeing"
+msgstr "Health And Wellbeing"
+
+msgid "High"
+msgstr "High"
+
+msgid "ITV Player"
+msgstr "ITV Player"
+
+msgid "Indigenous"
+msgstr "Indigenous"
+
+msgid "K - M"
+msgstr "K - M"
+
+msgid "Last Chance"
+msgstr "Last Chance"
+
+msgid "Last Updated:"
+msgstr "Last Updated:"
+
+msgid "Latest Episodes"
+msgstr "Latest Episodes"
+
+msgid "Lifestyle - Games"
+msgstr "Lifestyle - Games"
+
+msgid "Lifestyle - Reality"
+msgstr "Lifestyle - Reality"
+
+msgid "Low"
+msgstr "Low"
+
+msgid "Most Popular Episodes"
+msgstr "Most Popular Episodes"
+
+msgid "Most Popular TV"
+msgstr "Most Popular TV"
+
+msgid "Most Talked About"
+msgstr "Most Talked About"
+
+msgid "Movies"
+msgstr "Movies"
+
+msgid "Music"
+msgstr "Music"
+
+msgid "N - P"
+msgstr "N - P"
+
+msgid "News"
+msgstr "News"
+
+msgid "News & Current Affairs"
+msgstr "News & Current Affairs"
+
+msgid "No items matching your search criteria were found"
+msgstr "No items matching your search criteria were found"
+
+msgid "No matching search items were found for "
+msgstr "No matching search items were found for "
+
+msgid "Normal"
+msgstr "Normal"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "OnDemand"
+msgstr "OnDemand"
+
+msgid "OnDemand Configuration"
+msgstr "OnDemand Configuration"
+
+msgid ""
+"Open Uitzending Gemist\n"
+"\n"
+"Based on Xtrend code"
+msgstr ""
+"Open Uitzending Gemist\n"
+"\n"
+"Based on Xtrend code"
+
+msgid "Panel & Discussion"
+msgstr "Panel & Discussion"
+
+msgid "Preferred Stream Quality"
+msgstr "Preferred Stream Quality"
+
+msgid "Primary DNS: To watch UK Streams outside the UK"
+msgstr "Primary DNS: To watch UK Streams outside the UK"
+
+msgid "Q - T"
+msgstr "Q - T"
+
+msgid "RTE Player"
+msgstr "RTE Player"
+
+msgid "RTE Player - A to Z"
+msgstr "RTE Player - A to Z"
+
+msgid "RTE Player - Categories"
+msgstr "RTE Player - Categories"
+
+msgid "RTE Player - Choose Date"
+msgstr "RTE Player - Choose Date"
+
+msgid "RTL Number of days back"
+msgstr "RTL Number of days back"
+
+msgid "RTL XL A-Z"
+msgstr "RTL XL A-Z"
+
+msgid "RTL XL Gemist"
+msgstr "RTL XL Gemist"
+
+msgid "Recently Added"
+msgstr "Recently Added"
+
+msgid "Recently Played: "
+msgstr "Recently Played: "
+
+msgid "Religion"
+msgstr "Religion"
+
+msgid "SHOUTcast Radio"
+msgstr "SHOUTcast Radio"
+
+msgid "Search"
+msgstr "Search"
+
+msgid "Search term"
+msgstr "Search term"
+
+msgid "Secondary DNS: A backup DNS if the primary is down"
+msgstr "Secondary DNS: A backup DNS if the primary is down"
+
+msgid "Selection does not contain a stream!"
+msgstr "Selection does not contain a stream!"
+
+msgid "Show Categories"
+msgstr "Show Categories"
+
+msgid "Show Thumbnails"
+msgstr "Show Thumbnails"
+
+msgid "Show in extensions"
+msgstr "Show in extensions"
+
+msgid "Show in main menu"
+msgstr "Show in main menu"
+
+msgid "Show in plugin browser"
+msgstr "Show in plugin browser"
+
+msgid "Shows A to Z"
+msgstr "Shows A to Z"
+
+msgid "Signed"
+msgstr "Signed"
+
+msgid "Soaps"
+msgstr "Soaps"
+
+msgid "Sorry, No Stations Found!"
+msgstr "Sorry, No Stations Found!"
+
+msgid "Sorry, unable to find playable stream!"
+msgstr "Sorry, unable to find playable stream!"
+
+msgid "Sport"
+msgstr "Sport"
+
+msgid "Station Already Saved in Favorites!"
+msgstr "Station Already Saved in Favorites!"
+
+msgid "Station delete failed, please check the Debug logs!"
+msgstr "Station delete failed, please check the Debug logs!"
+
+msgid "Station deleted from Favorites!"
+msgstr "Station deleted from Favorites!"
+
+msgid "Station save failed, please check the Debug logs!"
+msgstr "Station save failed, please check the Debug logs!"
+
+msgid "Station saved to Favorites!"
+msgstr "Station saved to Favorites!"
+
+msgid "Straight Off The Telly"
+msgstr "Straight Off The Telly"
+
+msgid "TV Highlights"
+msgstr "TV Highlights"
+
+msgid "Time: "
+msgstr "Time: "
+
+msgid "Today"
+msgstr "Today"
+
+msgid "Trailers"
+msgstr "Trailers"
+
+msgid "Tunein Radio"
+msgstr "Tunein Radio"
+
+msgid "U - Z"
+msgstr "U - Z"
+
+msgid "UG A-Z"
+msgstr "UG A-Z"
+
+msgid "UG Popular"
+msgstr "UG Popular"
+
+msgid "UG Recently added"
+msgstr "UG Recently added"
+
+msgid "UG Search"
+msgstr "UG Search"
+
+msgid "Very Low"
+msgstr "Very Low"
+
+msgid "Wait please while gathering data..."
+msgstr "Wait please while gathering data..."
+
+msgid "Watch uitzending gemist"
+msgstr "Watch uitzending gemist"
+
+msgid "iRadio Player"
+msgstr "iRadio Player"
+
+msgid "iRadio Player - Main Menu"
+msgstr "iRadio Player - Main Menu"
+
+msgid "iRadio Player - SHOUTcast Genres"
+msgstr "iRadio Player - SHOUTcast Genres"
+
+msgid "iRadio Player - SHOUTcast Sub Genres for "
+msgstr "iRadio Player - SHOUTcast Sub Genres for "
+
+msgid "iRadio Player - Tunein Main Menu"
+msgstr "iRadio Player - Tunein Main Menu"
+
+msgid "iRadio: Display Favorite Default Thumbnails"
+msgstr "iRadio: Display Favorite Default Thumbnails"
+
+msgid "iRadio: Display Favorite Thumbnails"
+msgstr "iRadio: Display Favorite Thumbnails"
+
+msgid "iRadio: Display SHOUTcast Default Thumbnails"
+msgstr "iRadio: Display SHOUTcast Default Thumbnails"
+
+msgid "iRadio: Display SHOUTcast Thumbnails"
+msgstr "iRadio: Display SHOUTcast Thumbnails"
+
+msgid "iRadio: Display Tunein Default Thumbnails"
+msgstr "iRadio: Display Tunein Default Thumbnails"
+
+msgid "iRadio: Display Tunein Thumbnails"
+msgstr "iRadio: Display Tunein Thumbnails"
+
+msgid "iRadio: Display WMA Streams"
+msgstr "iRadio: Display WMA Streams"
+
+msgid "iView Exclusives"
+msgstr "iView Exclusives"
